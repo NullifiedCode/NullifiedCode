@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Dnlib , Python**
+- 🌱 I’m currently learning **Dnlib , Python, Networking**
 
 - 💬 Ask me about **Anything**
 
