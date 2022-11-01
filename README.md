@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm NullifiedCode</h1>
 <h3 align="center">Im just a solo developer looking to make awesome projects for people.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullifiedcode&label=Profile%20views&color=0e75b6&style=flat" alt="nullifiedcode" /> </p>
-
 - 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Dnlib , Python**
 
 - 💬 Ask me about **Anything**
 
-- 📄 Know about my experiences [Ive migrated large DDOS attacks on layer7 on my website.](Ive migrated large DDOS attacks on layer7 on my website.)
+- 📄 Know about my experiences **Ive migrated large DDOS attacks on layer7 on my website.**
 
 - ⚡ Fun fact **I'm sarcastic as hell. Dont expect me to be serious**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullifiedcode&label=Profile%20views&color=0e75b6&style=flat" alt="nullifiedcode" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
