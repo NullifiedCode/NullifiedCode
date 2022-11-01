@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📄 Know about my experiences **Ive migrated large DDOS attacks on layer7 on my website.**
+- 📄 Know about my experiences **Ive migrated large DDOS attacks on my website.**
 
 - ⚡ Fun fact **I'm sarcastic as hell. Dont expect me to be serious**
 
