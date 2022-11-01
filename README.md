@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm NullifiedCode</h1>
-<h3 align="center">Im just a solo developer looking to make awesome projects for people.</h3>
+<p align="center">
+  <a href="https://discord.com/users/289266380413468672" target="_blank"><img alt=Discord" src="https://img.shields.io/static/v1?label=null&message=%235055&style=for-the-badge&logo=appveyor&color=8e58d2&logo=Discord"></a>
+  <a href="https://racist.dev" target="_blank"><img alt=My Website" src="https://img.shields.io/website?label=racist.dev&style=for-the-badge&url=https%3A%2F%2Fracist.dev"></a>
+</p>
 
 - 🔭 I’m currently working on **nothing**
 
